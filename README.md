@@ -20,6 +20,7 @@ Screenshot
 Screenshot of Gitk. Branch may not be in straight line.
 
 ![Screenshot of Gitk](https://raw.github.com/crc8/GitVersionTree/master/sample_gitk.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchestnutt%2FGitVersionTree.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchestnutt%2FGitVersionTree?ref=badge_shield)
 
 Screenshot of GitVersionTree. Keeping branch in their own line. From oldest  commit at the top down to latest at the bottom.
 
@@ -89,3 +90,6 @@ Disclaimer
 ----------
 
 The developers of this software provide the software "as is," and you use the software at your own risk. The developers make no warranties as to performance, merchantability, fitness for a particular purpose, or any other warranties whether expressed or implied. No oral or written communication from or information provided by the developers shall create a warranty. Under no circumstances shall the developers be liable for direct, indirect, special, incidental, or consequential damages resulting from the use, misuse, or inability to use this software, even if the developers has been advised of the possibility of such damages.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchestnutt%2FGitVersionTree.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchestnutt%2FGitVersionTree?ref=badge_large)
